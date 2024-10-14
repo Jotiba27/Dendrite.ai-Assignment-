@@ -1,4 +1,4 @@
-# E-Commerce Dashboard Project
+# E-Commerce Dashboard 
 
 This project analyzes key trends in an e-commerce dataset, covering **monthly sales trends**, **top product categories**, **customer segmentation**, **shipping analysis**, and **customer retention**. The dashboard provides actionable insights for improving business performance.
 
