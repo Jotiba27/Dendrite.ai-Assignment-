@@ -15,7 +15,7 @@ The final dashboard provides a consolidated view of all key metrics, offering a 
 ## 📊 **Data Insights and Narrative**
 
 ### 1. **Monthly Sales Trends: Capitalizing on Sales Peaks**
-The **Monthly Sales Trend Line Chart** revealed steady sales growth, with a significant spike in **June 2023**. Total sales reached **$450,000**, driven by demand for **Office Supplies**.
+The **Monthly Sales Trend Line Chart** revealed steady sales growth, with a significant spike in **Oct 2022**. Total sales reached **$450,000**, driven by demand for **Office Supplies**.
 
 ![Monthly Sales Line Chart](images/Monthly_Sales_Line_Chart.jpg)
 
@@ -29,14 +29,14 @@ The **Top Product Categories Bar Chart** shows that **Office Supplies** contribu
 ---
 
 ### 3. **Customer Segmentation: Understanding Who Our Buyers Are**
-The **Customer Segmentation Pie Chart** shows that **Corporate customers** dominate sales, accounting for **60%** of the revenue, followed by **Consumers** with **30%**. Corporate clients prefer **Office Supplies**, while Consumers lean towards **Electronics**.
+The **Customer Segmentation Pie Chart** shows that **Consumers customers** dominate sales, accounting for **60%** of the revenue, followed by **Corporate** with **30%**. Corporate clients prefer **Office Supplies**, while Consumers lean towards **Electronics**.
 
 ![Customer Segmentation Pie Chart](images/Customer_Segmentation_Pie_Chart.jpg)
 
 ---
 
 ### 4. **Shipping and Order Insights: Improving Shipping Efficiency**
-**Second Class shipping** is the most profitable option, though it experiences moderate delays (average of **2 days**). **Standard Class** shipping has the longest delays (average of **4 days**) and is less profitable.
+**Standerd Class shipping** is the most profitable option, though it experiences long delays (average of **4 days**). **Standard Class** shipping has the longest delays (average of **4 days**) and is more profitable.
 
 ![Profit vs Shipping Delay Bar Charts](images/Profit_vs_Shipping_Delay_Bar_Charts.jpg)
 
