@@ -7,7 +7,7 @@ This project analyzes key trends in an e-commerce dataset, covering **monthly sa
 
 The final dashboard provides a consolidated view of all key metrics, offering a clear understanding of business performance.
 
-![Full Dashboard](Images/Full_Dashboard.png)
+![Full Dashboard](images/Full Dashboard.png)
 
 ---
 
